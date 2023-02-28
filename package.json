@@ -1,0 +1,22 @@
+{
+  "name": "jumia-cypress-tests",
+  "version": "1.0.0",
+  "description": "e2e Tests for Jumia Uganga web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathan-obace/Jumia-Cypress-Tests.git"
+  },
+  "author": "nathan obace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathan-obace/Jumia-Cypress-Tests/issues"
+  },
+  "homepage": "https://github.com/nathan-obace/Jumia-Cypress-Tests#readme",
+  "devDependencies": {
+    "cypress": "^12.7.0"
+  }
+}
