@@ -1,6 +1,6 @@
 describe("Checking categories functionality", () => {
   beforeEach(() => {
-    cy.visit("/").then(() => {
+    cy.visit("https://www.jumia.ug/").then(() => {
       cy.get('button[aria-label="newsletter_popup_close-cta"]').click();
     });
   });
